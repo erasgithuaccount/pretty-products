@@ -1,9 +1,10 @@
 
 html {
   box-sizing: border-box;
-  font-family: Karma, serif;
+  font-family:  Karma, serif;
   line-height: 1.5;
 }
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
@@ -19,6 +20,7 @@ ol {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
 li {
   display: flex;
   flex-direction: column;
@@ -28,9 +30,11 @@ li {
   padding-bottom: .9rem;
   align-items: center;
 }
+
 .item {
   max-height: 240px;
 }
+
 h2 {
   font-family: Oswald, sans-serif;
   font-size: 2rem;
@@ -38,6 +42,7 @@ h2 {
   text-align: center;
   margin-bottom: 0;
 }
+
 p {
   margin-top: 0;
   padding-top: 0;
@@ -50,10 +55,12 @@ p {
   color: #000;
   text-align: center;
 }
+
 .nav {
   display: flex;
   justify-content: space-between;
 }
+
 .add-to-cart-button {
   font-family: Oswald, sans-serif;
   text-decoration: none;
@@ -67,11 +74,13 @@ p {
   padding-left: 1.4rem;
   margin-left: .1rem;
 }
+
 .favourite {
   margin-left: 3.7rem;
   margin-right: .5rem;
-  padding-top: .4rem;
+  padding-top:  .4rem;
 }
+
 .share {
   padding-top: .4rem;
 }
