@@ -1,3 +1,4 @@
+
 html {
   box-sizing: border-box;
   font-family: Karma, serif;
@@ -18,7 +19,6 @@ ol {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-
 li {
   display: flex;
   flex-direction: column;
@@ -28,12 +28,9 @@ li {
   padding-bottom: .9rem;
   align-items: center;
 }
-
-.cart {
 .item {
   max-height: 240px;
 }
-
 h2 {
   font-family: Oswald, sans-serif;
   font-size: 2rem;
@@ -41,7 +38,6 @@ h2 {
   text-align: center;
   margin-bottom: 0;
 }
-
 p {
   margin-top: 0;
   padding-top: 0;
@@ -54,13 +50,10 @@ p {
   color: #000;
   text-align: center;
 }
-
 .nav {
   display: flex;
   justify-content: space-between;
 }
-
-p {
 .add-to-cart-button {
   font-family: Oswald, sans-serif;
   text-decoration: none;
@@ -74,24 +67,11 @@ p {
   padding-left: 1.4rem;
   margin-left: .1rem;
 }
-
-img {
-  width: 50%;
 .favourite {
   margin-left: 3.7rem;
   margin-right: .5rem;
   padding-top: .4rem;
 }
-
-/* -  *Typefaces:* `Karma`, `Oswald`
-- *Text sizes:* `1.4rem`, `2rem`
-- *Line-heights:* `1.5`
-- *Colours:* `#6f00e7`, `#987ffa`, `#000`
-- *Gaps:* `1rem`
-- *Margins:* `.25em`, `1.5rem`
-- *Paddings:* `.5em 1.5em .7em`, `.25em`, `1rem`
-- *Border thicknesses:* `3px`
-- *Corner-radii:* `3em`, `6px` */
 .share {
   padding-top: .4rem;
 }
