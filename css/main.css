@@ -1,7 +1,7 @@
 
 html {
   box-sizing: border-box;
-  font-family:  Karma, serif;
+  font-family: Karma, serif;
   line-height: 1.5;
 }
 
@@ -78,7 +78,7 @@ p {
 .favourite {
   margin-left: 3.7rem;
   margin-right: .5rem;
-  padding-top:  .4rem;
+  padding-top: .4rem;
 }
 
 .share {
